@@ -1,0 +1,19 @@
+.gris {
+    background-color: darkslategray;
+}
+.orange {
+    background-color: darkorange;
+}
+.jaune {
+    background-color: yellow;
+}
+.black {
+    background-color: black;
+}
+.container {
+    min-width: 200px;
+}
+[class*="col-"] {
+    height: 5vw;
+    padding: 0;
+}
